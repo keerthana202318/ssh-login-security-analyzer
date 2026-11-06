@@ -43,3 +43,14 @@ The sample_auth.log file contains fictional SSH authentication records for testi
 
 ## Limitations
 This tool detects failed password patterns. It does not automatically block IP addresses or confirm whether an activity is malicious.
+
+## Project Screenshots
+
+### SSH Login Security Analyzer Output
+
+![Project Output](screenshots/Screenshot%20From%202026-11-06%2016-44-00.png)
+
+### CSV Security Report
+
+![CSV Security Report](screenshots/Screenshot%20From%202026-11-06%2017-02-46.png)
+
